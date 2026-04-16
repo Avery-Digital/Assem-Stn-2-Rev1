@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\ASSEM_STN_2_Rev1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=assem_stn_2_rev1-roundholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=assem_stn_2_rev1-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=assem_stn_2_rev1-slotholes-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl

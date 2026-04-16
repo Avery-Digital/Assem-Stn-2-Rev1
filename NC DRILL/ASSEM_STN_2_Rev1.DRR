@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ASSEM_STN_2_Rev1.PcbDoc   3/6/2026  11:06:27 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : ASSEM_STN_2_Rev1-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : ASSEM_STN_2_Rev1-RoundHoles-NonPlated.TXT
+ASCII Non-Plated SlotHoles File : ASSEM_STN_2_Rev1-SlotHoles-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             618       PTH        2308.55mm (90.89inch)
+T2      0.711mm (28mil)         +/-0.076mm (3mil)                 Round             10        PTH        11.43mm (0.45inch)
+T3      1mm (39mil)                                               Round             4         PTH        42.22mm (1.66inch)
+T4      1.067mm (42mil)                                           Round             17        PTH        191.37mm (7.53inch)
+T5      1.245mm (49mil)                                           Round             20        PTH        207.21mm (8.16inch)
+T6      1.6mm (63mil)                                             Round             12        PTH        270.43mm (10.65inch)
+T7      0.95mm (37mil)                                            Round             2         NPTH       3.35mm (0.13inch)
+T8      1.346mm (53mil)                                           Round             5         NPTH       195.12mm (7.68inch)
+T9      1.651mm (65mil)                                           Round             8         NPTH       184.21mm (7.25inch)
+T10     3.4mm (134mil)                                            Round             5         NPTH       442.73mm (17.43inch)
+T11     7mm (276mil)                                              Slot              1         NPTH       18.00mm (0.71inch)
+T12     8mm (315mil)                                              Round             1         NPTH       0.00mm (0.00inch)
+T13     9mm (354mil)                                              Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              704
+
+Total Processing Time (hh:mm:ss) : 00:00:00

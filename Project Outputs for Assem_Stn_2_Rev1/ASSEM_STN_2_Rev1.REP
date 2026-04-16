@@ -1,0 +1,170 @@
+*************************************************************
+FileName = ASSEM_STN_2_Rev1.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\profile
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\stephdr
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_6\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_6\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_4\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_4\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_3\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_3\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_5\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_5\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_7\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\dielectric_7\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\drill_guide_top_layer-bottom_layer\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\pwr_5v\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\pwr_5v\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\pwr_3v3\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\pwr_3v3\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\drill_drawing_top_layer-bottom_layer\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\gnd_2\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\gnd_2\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\gnd_7\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\gnd_7\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\sig_3\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\sig_3\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\sig_6\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\sig_6\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\rout\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\layers\rout\tools
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\steps\pcb\eda\data
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\matrix\matrix
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shape235e85fd\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shaped9eb336f\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shapec6f5a493\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shape687caef7\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shaped108cb5d\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shapeac30fc3b\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shape22c88e9d\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shape94b426f4\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shaped108cb5d\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shapeac30fc3b\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shape22c88e9d\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shape94b426f4\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shape235e85fd\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shaped9eb336f\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shapec6f5a493\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shape687caef7\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shape235e85fd\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shaped9eb336f\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shapec6f5a493\features
+
+Generated File : C:\PCB Projects\4. Assembly Station #2\Assem_Stn_2_Rev1\Project Outputs for Assem_Stn_2_Rev1\odb\symbols\shape687caef7\features
+

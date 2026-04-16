@@ -1,0 +1,11 @@
+# Altium Designer generated files
+History/
+__Previews/
+Project Logs*/
+
+# Dated STEP exports (snapshots, not source)
+ASSEM_STN_2_Rev1 - 3-*.step
+PCB1 - *.step
+
+# Zip archives of outputs
+*.zip

@@ -12,3 +12,6 @@ PCB1 - *.step
 
 # Zip archives of outputs
 *.zip
+
+# Datasheets
+Datasheets/
